@@ -1,10 +1,10 @@
 # devorhankansiz.github.io
 
-- [PHP](./PHP/index.md)
-- [Laravel](./Laravel/index.md)
-- [JavaScript](./JavaScript/index.md)
-- [NodeJS](./NodeJS/index.md)
-- [VueJS](./VueJS/index.md)
-- [Flutter](./Flutter/index.md)
-- [HTML-CSS](./HTML-CSS/index.md)
-- [WordPress](./WordPress/index.md)
+- [PHP](./BLOG/PHP/index.md)
+- [Laravel](./BLOG/Laravel/index.md)
+- [JavaScript](./BLOG/JavaScript/index.md)
+- [NodeJS](./BLOG/NodeJS/index.md)
+- [VueJS](./BLOG/VueJS/index.md)
+- [Flutter](./BLOG/Flutter/index.md)
+- [HTML-CSS](./BLOG/HTML-CSS/index.md)
+- [WordPress](./BLOG/WordPress/index.md)
