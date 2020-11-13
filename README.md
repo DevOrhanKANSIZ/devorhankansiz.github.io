@@ -1,1 +1,0 @@
-# devorhankansiz.github.io
